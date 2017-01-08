@@ -6,9 +6,9 @@ Visualisation of different types of crime that happened in various boroughs of L
 
 ## Usage
 
-Simply run in Processing
-giCentre utilities and geoMap libraries are needed to run it.
-You can obtain them from http://www.gicentre.net/
+Simply run in Processing.
+<br>giCentre utilities and geoMap libraries are needed to run it.
+<br>You can obtain them from http://www.gicentre.net/
 
 ## Screenshots
 
